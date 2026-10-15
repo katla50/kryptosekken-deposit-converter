@@ -1,6 +1,6 @@
 # Kryptosekken deposit-konverterer
 
-Konverterer `deposit`-transaksjoner fra en **kryptokort-eksport (CSV)** til
+Konverterer `deposit`-transaksjoner fra en **Bitrefill-eksport (CSV)** til
 **Kryptosekken** sitt generiske importformat.
 
 En `deposit`-rad betyr at kryptovaluta (f.eks. BTC) er vekslet til euro.
