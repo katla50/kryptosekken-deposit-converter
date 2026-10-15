@@ -1,0 +1,10 @@
+# Virtuelle miljøer og cache
+.venv/
+venv/
+__pycache__/
+*.py[cod]
+.pytest_cache/
+
+# Konverterte filer og reelle transaksjonsdata skal aldri i git
+*.csv
+!examples/*.csv
